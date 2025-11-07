@@ -1,0 +1,13 @@
+C:\Users\ianpu\source\repos\CollegeAdvisingQueue\CollegeAdvisingQueue\bin\x86\Debug\bin\x86\Data\App.accdb
+C:\Users\ianpu\source\repos\CollegeAdvisingQueue\CollegeAdvisingQueue\obj\x86\Debug\CollegeAdvisingQueue.vbproj.AssemblyReference.cache
+C:\Users\ianpu\source\repos\CollegeAdvisingQueue\CollegeAdvisingQueue\obj\x86\Debug\CollegeAdvisingQueue.FrmAdvisingEdit.resources
+C:\Users\ianpu\source\repos\CollegeAdvisingQueue\CollegeAdvisingQueue\obj\x86\Debug\CollegeAdvisingQueue.FrmAdvisingList.resources
+C:\Users\ianpu\source\repos\CollegeAdvisingQueue\CollegeAdvisingQueue\obj\x86\Debug\CollegeAdvisingQueue.FrmMain.resources
+C:\Users\ianpu\source\repos\CollegeAdvisingQueue\CollegeAdvisingQueue\obj\x86\Debug\CollegeAdvisingQueue.FrmStudentEdit.resources
+C:\Users\ianpu\source\repos\CollegeAdvisingQueue\CollegeAdvisingQueue\obj\x86\Debug\CollegeAdvisingQueue.FrmStudentsList.resources
+C:\Users\ianpu\source\repos\CollegeAdvisingQueue\CollegeAdvisingQueue\obj\x86\Debug\CollegeAdvisingQueue.Resources.resources
+C:\Users\ianpu\source\repos\CollegeAdvisingQueue\CollegeAdvisingQueue\obj\x86\Debug\CollegeAdvisingQueue.vbproj.GenerateResource.cache
+C:\Users\ianpu\source\repos\CollegeAdvisingQueue\CollegeAdvisingQueue\obj\x86\Debug\CollegeAdvisingQueue.vbproj.CoreCompileInputs.cache
+C:\Users\ianpu\source\repos\CollegeAdvisingQueue\CollegeAdvisingQueue\obj\x86\Debug\CollegeAdvisingQueue.exe
+C:\Users\ianpu\source\repos\CollegeAdvisingQueue\CollegeAdvisingQueue\obj\x86\Debug\CollegeAdvisingQueue.xml
+C:\Users\ianpu\source\repos\CollegeAdvisingQueue\CollegeAdvisingQueue\obj\x86\Debug\CollegeAdvisingQueue.pdb
